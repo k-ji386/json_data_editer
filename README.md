@@ -6,7 +6,7 @@
 
 ## GitHub Pagesのリンク
 　[https://k-ji386.github.io/json_data_editer/workspace/index.html](https://k-ji386.github.io/json_data_editer/workspace/index.html)にアクセスしてください。  
-　JSONデータエディター本体となるindex.htmlは、/workspace/index.htmlにあるため、デフォルトのhttps://k-ji386.github.io/json_data_editerでは、エディター本体を開くことはできません。  
+　JSONデータエディター本体となるindex.htmlは、/workspace/index.htmlにあるため、デフォルトのリンク先では、エディター本体を開くことはできません。  
 
 
  ** 使用方法詳細はまだ、作成中です。**
